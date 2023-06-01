@@ -1,3 +1,5 @@
+![event=push](https://github.com/Codersbay-Java/exercise-09-ci-ZerodymeAT/actions/workflows/ubuntu-run-tests.yml/badge.svg?event=push)
+
 # Calculator CI Exercise
 
 - Implement the tests appropriately.
