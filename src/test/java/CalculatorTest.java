@@ -16,7 +16,7 @@ public class CalculatorTest {
 
     @Test
     void testMultiply() {
-        Assertions.assertEquals(50, Calculator.multiply(10, 5));
+        Assertions.assertEquals(500, Calculator.multiply(10, 5));
 //        Assertions.fail("Test not implemented");
     }
 
